@@ -1,0 +1,12 @@
+# Результат сборки
+expedition
+*.o
+
+# Журналы прогонов (expedition.log, tests/*.log)
+*.log
+
+# macOS
+.DS_Store
+
+# IDE (CLion)
+.idea/
